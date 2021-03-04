@@ -1,15 +1,16 @@
-id: opecha:P000383
+id: P000383
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG22269
   title: ལྷ་མོའི་ཟློས་གར་གྱི་འཁྲབ་གཞུང་དྭངས་ཤེལ་མེ་ལོང་།
-  volume:
+  author: ''
+  volumes:
     eba083e2c7ec4e04a389869ef4d7c860:
       image_group_id: I1KG22317
       title: Volume 1 of lha mo'i zlos gar gyi 'khrab gzhung dwangs shel me long /
       volume_number: 1
       total_pages: 196
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ལྷ་མོའི་ཟློས་གར་གྱི་འཁྲབ་གཞུང་དྭངས་ཤེལ་མེ་ལོང་།
   author: ''
